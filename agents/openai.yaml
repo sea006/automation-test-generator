@@ -1,0 +1,4 @@
+interface:
+  display_name: "自动化测试脚本生成器"
+  short_description: "从需求和代码生成可运行的多类型自动化测试脚本与报告"
+  default_prompt: "使用 $automation-test-generator 分析当前项目并生成可运行、可报告的自动化测试脚本。"
